@@ -11,7 +11,7 @@ gemspec
 # your gem to rubygems.org.
 
 gem 'sqlite3'
-gem 'jquery-rails', '~> 3.0'
+gem 'jquery-rails'
 
 group :test do
   gem 'coveralls',  require: false
