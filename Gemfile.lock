@@ -157,7 +157,7 @@ DEPENDENCIES
   coveralls
   dashing-rails!
   generator_spec
-  jquery-rails (~> 3.0)
+  jquery-rails (~> 4.0.0)
   pry-rails (~> 0.3)
   rspec-rails (~> 2.14)
   simplecov
